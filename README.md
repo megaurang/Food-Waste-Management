@@ -1,1 +1,1 @@
-# Food-Waste-Management
+# Food-Waste-Management(STREAMLIT INTERACTIVE APP)
